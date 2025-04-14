@@ -1,4 +1,4 @@
-# Byakugan: Ethereum Analysis Suite
+# Byakugan: Analysis Suite
 
 ## Overview
 
