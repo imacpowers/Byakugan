@@ -1,0 +1,1 @@
+// Placeholder for contract fetched from blockchain

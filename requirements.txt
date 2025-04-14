@@ -1,0 +1,13 @@
+Flask
+Flask-WTF
+gunicorn
+web3
+Jinja2
+requests
+pandas
+numpy
+matplotlib
+plotly
+python-dotenv
+tqdm
+slither-analyzer
